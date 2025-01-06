@@ -1,4 +1,8 @@
 # Naoqi-For-NAO-Robot
+For opn file resource , please download via Release
+
+![image](https://github.com/user-attachments/assets/c0df4eff-7fae-4409-8e4c-72ffc3fe60f9)
+
 
 For Wireless Flash:
 
