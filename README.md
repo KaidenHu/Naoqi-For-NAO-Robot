@@ -14,7 +14,7 @@ Step :
 
 2.Click "Advanced" option and then choose "Update robot systems"
 
-![image](https://github.com/user-attachments/assets/f4ec5355-b481-4264-82cd-dd5e758faa96)
+![image](https://github.com/user-attachments/assets/4006ff43-5425-42ba-ab5f-9edc683441c9)
 
 3.Choose opn file path in your storage 
 
